@@ -11,7 +11,7 @@ from flask import Flask
 # ==========================================
 #         CONFIG & SETUP
 # ==========================================
-BOT_TOKEN = "8932245478:AAFsXFzGvxOMv2fJYFqiCAFa_woyVRQNMqo"
+BOT_TOKEN = "8948621033:AAF6l5ye6EhOIMAbCAn9Z9CQJhuVliKBFQE"
 MASTER_ADMIN = 8519288398 
 FIREBASE_URL = "https://ghost-services-improve-default-rtdb.firebaseio.com/"
 
